@@ -39,7 +39,7 @@ of container number 3 (=charlie) in float format.
 
 ## InfluxDB (v2.0) 
 
-![Alt text](/jm_database.png)
+![Alt text](/database.png)
 
 The juice mixer is also equipped with a InfluxDB (2.0) to store (and retrieve) historical sensor data.
 InfluxDB was installed and set up via this [guide](https://pimylifeup.com/raspberry-pi-influxdb/) on the raspberry pi.
